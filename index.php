@@ -49,7 +49,7 @@ include_once ("dataRand.php");
                 <?php }?>
             </table>
     </div>
-    <div class="col-6 ide">
+    <div class="col-6 ide rounded">
         <h1 class="text-white">SQL:</h1>
         <blockquote>
             <ul class="mt-3">    
