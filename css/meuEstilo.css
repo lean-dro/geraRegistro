@@ -1,0 +1,28 @@
+html{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+th{
+    font-size: 120%;
+}
+.ide{
+    background-color: #1C1B22;
+}
+h1{
+    text-align: center;
+}
+ul{
+    list-style-position: inside;
+}
+li{
+    color: white;
+    font-size: 110%;
+}
+.texto{
+    color: #38A5FC;
+}
+.text-white{
+    font-weight: 600;
+}
+.laranja{
+    color: #E66E45;
+}
