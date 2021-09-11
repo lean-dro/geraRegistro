@@ -62,7 +62,7 @@ include_once ("dataRand.php");
                 <b class="laranja">'</b><?php gerarDia();?><b class="laranja">'</b>
              <b class="texto">)</b></p>
            <?php } ?>
-            <ui>
+            <ul>
         </blockquote>
         </div>
     </div>
